@@ -23,4 +23,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0797-all-paths-from-source-to-target) |
+## Depth-First Search
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0797-all-paths-from-source-to-target) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0797-all-paths-from-source-to-target) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
