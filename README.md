@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -30,13 +32,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0797-all-paths-from-source-to-target](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0797-all-paths-from-source-to-target](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0797-all-paths-from-source-to-target) |
 ## Graph Theory
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0797-all-paths-from-source-to-target) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
