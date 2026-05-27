@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2784-check-if-array-is-good) |
 | [3606-coupon-code-validator](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3606-coupon-code-validator) |
+| [3925-concatenate-array-with-reverse](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1688-count-of-matches-in-tournament) |
+| [3925-concatenate-array-with-reverse](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3925-concatenate-array-with-reverse) |
 ## Topological Sort
 |  |
 | ------- |
