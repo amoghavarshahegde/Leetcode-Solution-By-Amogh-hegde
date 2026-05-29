@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0338-counting-bits](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0338-counting-bits) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Union-Find
 |  |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2413-smallest-even-multiple) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
