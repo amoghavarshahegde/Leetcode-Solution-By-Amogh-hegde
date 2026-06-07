@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2363-merge-similar-items](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2363-merge-similar-items) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2784-check-if-array-is-good) |
 | [3467-transform-array-by-parity](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3467-transform-array-by-parity) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1748-sum-of-unique-elements](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2363-merge-similar-items](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2363-merge-similar-items) |
 | [2784-check-if-array-is-good](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2784-check-if-array-is-good) |
 | [3606-coupon-code-validator](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3606-coupon-code-validator) |
 ## Divide and Conquer
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1710-maximum-units-on-a-truck](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1710-maximum-units-on-a-truck) |
+| [2363-merge-similar-items](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2363-merge-similar-items) |
 | [2784-check-if-array-is-good](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2784-check-if-array-is-good) |
 | [3467-transform-array-by-parity](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3467-transform-array-by-parity) |
 | [3606-coupon-code-validator](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3606-coupon-code-validator) |
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1025-divisor-game) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
