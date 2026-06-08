@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0209-minimum-size-subarray-sum) |
+| [1672-richest-customer-wealth](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1710-maximum-units-on-a-truck) |
 | [1748-sum-of-unique-elements](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0200-number-of-islands) |
+| [1672-richest-customer-wealth](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Linked List
 |  |
