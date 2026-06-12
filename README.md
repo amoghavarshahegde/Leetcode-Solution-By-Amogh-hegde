@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0326-power-of-three) |
+| [0728-self-dividing-numbers](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1688-count-of-matches-in-tournament) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
