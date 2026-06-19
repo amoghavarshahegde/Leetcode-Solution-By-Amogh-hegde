@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0012-integer-to-roman) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0349-intersection-of-two-arrays](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0349-intersection-of-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1748-sum-of-unique-elements) |
@@ -178,11 +179,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0012-integer-to-roman) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3606-coupon-code-validator](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3606-coupon-code-validator) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0012-integer-to-roman) |
 | [0326-power-of-three](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0326-power-of-three) |
 | [0728-self-dividing-numbers](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1025-divisor-game) |
