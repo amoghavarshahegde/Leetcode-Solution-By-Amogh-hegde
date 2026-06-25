@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3206-alternating-groups-i](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3206-alternating-groups-i) |
 | [3467-transform-array-by-parity](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3467-transform-array-by-parity) |
 | [3606-coupon-code-validator](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3606-coupon-code-validator) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0209-minimum-size-subarray-sum) |
+| [3206-alternating-groups-i](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3206-alternating-groups-i) |
 ## Prefix Sum
 |  |
 | ------- |
