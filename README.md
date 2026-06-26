@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2974-minimum-number-game) |
 | [3206-alternating-groups-i](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3206-alternating-groups-i) |
 | [3467-transform-array-by-parity](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3467-transform-array-by-parity) |
 | [3606-coupon-code-validator](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3606-coupon-code-validator) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2363-merge-similar-items) |
 | [2784-check-if-array-is-good](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3467-transform-array-by-parity) |
 | [3606-coupon-code-validator](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1688-count-of-matches-in-tournament) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2974-minimum-number-game](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2974-minimum-number-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3925-concatenate-array-with-reverse) |
 ## Topological Sort
 |  |
@@ -267,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1534-count-good-triplets) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
