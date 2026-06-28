@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0338-counting-bits) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Counting
 |  |
 | ------- |
