@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2396-strictly-palindromic-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2965-find-missing-and-repeated-values) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2427-number-of-common-factors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1534-count-good-triplets) |
+| [2427-number-of-common-factors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2427-number-of-common-factors) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
