@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0414-third-maximum-number) |
 | [0493-reverse-pairs](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0493-reverse-pairs) |
+| [0523-continuous-subarray-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0523-continuous-subarray-sum) |
 | [0654-maximum-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0654-maximum-binary-tree) |
 | [0724-find-pivot-index](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0904-fruit-into-baskets) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0523-continuous-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0904-fruit-into-baskets) |
 | [1748-sum-of-unique-elements](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1991-find-the-middle-index-in-array) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0012-integer-to-roman) |
 | [0326-power-of-three](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0326-power-of-three) |
+| [0523-continuous-subarray-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1688-count-of-matches-in-tournament) |
@@ -356,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0347-top-k-frequent-elements) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
