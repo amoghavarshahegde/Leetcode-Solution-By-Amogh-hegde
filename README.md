@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0523-continuous-subarray-sum) |
 | [0654-maximum-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0654-maximum-binary-tree) |
+| [0704-binary-search](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0904-fruit-into-baskets) |
 | [1534-count-good-triplets](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1534-count-good-triplets) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0704-binary-search](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
