@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0349-intersection-of-two-arrays) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0654-maximum-binary-tree) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0240-search-a-2d-matrix-ii](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0493-reverse-pairs) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2965-find-missing-and-repeated-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3898-find-the-degree-of-each-vertex) |
