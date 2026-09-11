@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0904-fruit-into-baskets) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3206-alternating-groups-i](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3206-alternating-groups-i) |
 ## Prefix Sum
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2351-first-letter-to-appear-twice) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3606-coupon-code-validator](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3606-coupon-code-validator) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1688-count-of-matches-in-tournament) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2396-strictly-palindromic-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2427-number-of-common-factors) |
