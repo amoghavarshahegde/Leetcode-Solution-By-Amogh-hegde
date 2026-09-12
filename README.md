@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0707-design-linked-list](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0707-design-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Stack
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0707-design-linked-list](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0901-online-stock-span) |
 | [1603-design-parking-system](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1603-design-parking-system) |
 ## Enumeration
