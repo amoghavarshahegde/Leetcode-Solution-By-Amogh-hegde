@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0523-continuous-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0904-fruit-into-baskets) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1748-sum-of-unique-elements](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2351-first-letter-to-appear-twice) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0654-maximum-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0993-cousins-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0654-maximum-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0993-cousins-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0797-all-paths-from-source-to-target) |
 | [0993-cousins-in-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0993-cousins-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0797-all-paths-from-source-to-target) |
 | [0993-cousins-in-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0993-cousins-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -415,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0543-diameter-of-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## String Matching
 |  |
 | ------- |
@@ -431,8 +437,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
