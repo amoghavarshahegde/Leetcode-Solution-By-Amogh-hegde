@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0523-continuous-subarray-sum) |
+| [0575-distribute-candies](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0575-distribute-candies) |
 | [0654-maximum-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0654-maximum-binary-tree) |
 | [0704-binary-search](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0724-find-pivot-index) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0523-continuous-subarray-sum) |
+| [0575-distribute-candies](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0575-distribute-candies) |
 | [0904-fruit-into-baskets](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0904-fruit-into-baskets) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1748-sum-of-unique-elements](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1748-sum-of-unique-elements) |
