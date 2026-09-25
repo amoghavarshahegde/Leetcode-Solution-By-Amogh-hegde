@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1688-count-of-matches-in-tournament) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [1952-three-divisors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1952-three-divisors) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2396-strictly-palindromic-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2413-smallest-even-multiple) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2427-number-of-common-factors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1534-count-good-triplets) |
+| [1952-three-divisors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2427-number-of-common-factors) |
 ## Heap (Priority Queue)
 |  |
@@ -489,4 +492,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0175-combine-two-tables) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
