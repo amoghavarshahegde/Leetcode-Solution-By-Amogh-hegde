@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2351-first-letter-to-appear-twice) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3340-check-balanced-string](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3340-check-balanced-string) |
 | [3606-coupon-code-validator](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3606-coupon-code-validator) |
 ## Math
 |  |
