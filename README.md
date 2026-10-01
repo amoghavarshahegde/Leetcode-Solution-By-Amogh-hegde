@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0654-maximum-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0654-maximum-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Backtracking
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0797-all-paths-from-source-to-target) |
 | [0993-cousins-in-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
