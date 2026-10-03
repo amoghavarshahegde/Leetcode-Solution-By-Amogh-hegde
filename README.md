@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0654-maximum-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0654-maximum-binary-tree) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0540-single-element-in-a-sorted-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0875-koko-eating-bananas) |
