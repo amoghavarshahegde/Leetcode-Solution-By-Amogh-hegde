@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0018-4sum) |
+| [0039-combination-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0084-largest-rectangle-in-histogram) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0113-path-sum-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0797-all-paths-from-source-to-target) |
 ## Depth-First Search
