@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2206-divide-array-into-equal-pairs) |
 | [2363-merge-similar-items](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2363-merge-similar-items) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2596-check-knight-tour-configuration](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2596-check-knight-tour-configuration) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1325-delete-leaves-with-a-given-value) |
+| [2596-check-knight-tour-configuration](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0797-all-paths-from-source-to-target) |
 | [0993-cousins-in-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2596-check-knight-tour-configuration](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2596-check-knight-tour-configuration) |
 ## Graph Theory
 |  |
 | ------- |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1672-richest-customer-wealth) |
+| [2596-check-knight-tour-configuration](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2965-find-missing-and-repeated-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Linked List
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1688-count-of-matches-in-tournament) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2596-check-knight-tour-configuration](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2596-check-knight-tour-configuration) |
 | [2974-minimum-number-game](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2974-minimum-number-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3925-concatenate-array-with-reverse) |
 ## Topological Sort
