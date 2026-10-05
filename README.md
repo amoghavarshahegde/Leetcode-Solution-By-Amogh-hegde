@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0654-maximum-binary-tree) |
+| [0856-score-of-parentheses](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0901-online-stock-span) |
 ## String
 |  |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0856-score-of-parentheses](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0856-score-of-parentheses) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -537,4 +539,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
