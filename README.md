@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1025-divisor-game) |
@@ -548,4 +551,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0856-score-of-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
