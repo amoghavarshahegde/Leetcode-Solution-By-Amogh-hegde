@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1748-sum-of-unique-elements](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2351-first-letter-to-appear-twice) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0856-score-of-parentheses](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0856-score-of-parentheses) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1638-count-substrings-that-differ-by-one-character) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2351-first-letter-to-appear-twice) |
