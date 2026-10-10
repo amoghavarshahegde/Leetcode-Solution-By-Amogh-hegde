@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0654-maximum-binary-tree) |
 | [0856-score-of-parentheses](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0901-online-stock-span) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String
 |  |
 | ------- |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0856-score-of-parentheses) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2351-first-letter-to-appear-twice) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1688-count-of-matches-in-tournament) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2596-check-knight-tour-configuration](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2596-check-knight-tour-configuration) |
