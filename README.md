@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0654-maximum-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0654-maximum-binary-tree) |
+| [0682-baseball-game](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0654-maximum-binary-tree) |
+| [0682-baseball-game](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1688-count-of-matches-in-tournament) |
