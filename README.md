@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3467-transform-array-by-parity) |
 | [3606-coupon-code-validator](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3606-coupon-code-validator) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3708-longest-fibonacci-subarray](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3708-longest-fibonacci-subarray) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3917-count-indices-with-opposite-parity](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3917-count-indices-with-opposite-parity) |
