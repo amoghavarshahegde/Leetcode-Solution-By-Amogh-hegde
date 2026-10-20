@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0328-odd-even-linked-list) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0451-sort-characters-by-frequency) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0493-reverse-pairs) |
 ## Bucket Sort
 |  |
@@ -613,4 +617,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1392-longest-happy-prefix) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
