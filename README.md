@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0402-remove-k-digits) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1710-maximum-units-on-a-truck](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1710-maximum-units-on-a-truck) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3074-apple-redistribution-into-boxes) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String
 |  |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0856-score-of-parentheses](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1392-longest-happy-prefix](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1392-longest-happy-prefix) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1638-count-substrings-that-differ-by-one-character) |
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Knapsack Problem
 |  |
 | ------- |
