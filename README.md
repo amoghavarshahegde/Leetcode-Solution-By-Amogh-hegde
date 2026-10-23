@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2363-merge-similar-items) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2596-check-knight-tour-configuration](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2596-check-knight-tour-configuration) |
+| [2601-prime-subtraction-operation](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2601-prime-subtraction-operation) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2601-prime-subtraction-operation](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2601-prime-subtraction-operation) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Greedy
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1710-maximum-units-on-a-truck](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1710-maximum-units-on-a-truck) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2601-prime-subtraction-operation](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2601-prime-subtraction-operation) |
 | [3074-apple-redistribution-into-boxes](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3074-apple-redistribution-into-boxes) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Sorting
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2601-prime-subtraction-operation](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2601-prime-subtraction-operation) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2965-find-missing-and-repeated-values) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2427-number-of-common-factors) |
+| [2601-prime-subtraction-operation](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2601-prime-subtraction-operation) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
 |  |
