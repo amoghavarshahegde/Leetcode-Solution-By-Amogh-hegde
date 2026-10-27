@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0904-fruit-into-baskets) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1389-create-target-array-in-the-given-order](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1389-create-target-array-in-the-given-order) |
 | [1534-count-good-triplets](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1534-count-good-triplets) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1025-divisor-game) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1672-richest-customer-wealth](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1672-richest-customer-wealth) |
 | [2596-check-knight-tour-configuration](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2965-find-missing-and-repeated-values) |
