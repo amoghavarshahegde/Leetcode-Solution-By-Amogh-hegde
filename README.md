@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1025-divisor-game) |
+| [1492-the-kth-factor-of-n](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1492-the-kth-factor-of-n) |
 | [1688-count-of-matches-in-tournament](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1688-count-of-matches-in-tournament) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1952-three-divisors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1952-three-divisors) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2427-number-of-common-factors) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prime Factorization
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1952-three-divisors) |
 ## Sieve Theory
 |  |
