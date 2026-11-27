@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0611-valid-triangle-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0611-valid-triangle-number) |
 | [0654-maximum-binary-tree](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0704-binary-search) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0875-koko-eating-bananas) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0402-remove-k-digits) |
+| [0611-valid-triangle-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0611-valid-triangle-number) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1710-maximum-units-on-a-truck](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1710-maximum-units-on-a-truck) |
 | [2233-maximum-product-after-k-increments](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2233-maximum-product-after-k-increments) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0451-sort-characters-by-frequency) |
+| [0611-valid-triangle-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0611-valid-triangle-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -449,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/0611-valid-triangle-number) |
 | [1332-remove-palindromic-subsequences](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1332-remove-palindromic-subsequences) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/amoghavarshahegde/Leetcode-Solution-By-Amogh-hegde/tree/master/2161-partition-array-according-to-given-pivot) |
